@@ -1,2 +1,3 @@
-# HDir-FreeDOS
- HDir clone for FreeDOS in FreeBASIC
+# HotDir-FreeDOS-FreeBASIC
+HotDir clone for FreeDOS
+Written in FreeBASIC
