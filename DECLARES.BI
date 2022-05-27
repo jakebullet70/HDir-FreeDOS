@@ -1,4 +1,3 @@
-
 DECLARE SUB PrintFooter(finfo$,dinfo$)
 DECLARE SUB PrintAtCol (xCol%, txt$)
 DECLARE SUB Dir2Pipe(arr$())
@@ -11,4 +10,5 @@ DECLARE SUB SetColorAndFormat4File (filename$, filesize$)
 DECLARE FUNCTION CleanUpFileSize$ (fsize$)
 DECLARE SUB SetFileColor (ext$)
 DECLARE FUNCTION IsFreeDOS() AS INTEGER
+DECLARE FUNCTION Is4DOSLoaded() AS INTEGER
 
