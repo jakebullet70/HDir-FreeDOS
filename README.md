@@ -5,7 +5,8 @@ Written in FreeBASIC on FreeDOS!
 May-21-2002 - First release  
 May-27-2002 - added support for 4DOS  
 
-### Have a nice day ✨
-![](screenshort.jpg?raw=true "Optional Title")  
+### Have a nice day ✨  
+
+![](screenshot.jpg?raw=true "Optional Title")  
 
 
